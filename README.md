@@ -1,4 +1,5 @@
 # camera_ledFinder
+[Version française](https://github.com/pigetArduino/camera_ledFinder/blob/master/readme.fr.md)
 Detect led with a webcam using opencv2    
 Each images is analysed on a spectrum of colors (Red/Green/Blue) in HSV 
 ![Webcam image with led highlighted by colored circle](https://github.com/pigetArduino/camera_ledFinder/raw/master/doc/camere_ledFinder_app.png)
